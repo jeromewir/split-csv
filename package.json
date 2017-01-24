@@ -1,0 +1,19 @@
+{
+  "name": "split-csv",
+  "version": "0.0.1",
+  "description": "This module let you split csv files with headers in every files",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jeromewir/split-csv.git"
+  },
+  "author": "wirszt_j",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jeromewir/split-csv/issues"
+  },
+  "homepage": "https://github.com/jeromewir/split-csv#readme"
+}
