@@ -1,6 +1,6 @@
 {
   "name": "split-csv",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This module let you split csv files with headers in every files",
   "main": "lib/index.js",
   "scripts": {
